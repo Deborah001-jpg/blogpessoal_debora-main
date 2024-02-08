@@ -37,7 +37,7 @@ function Home() {
 
                     <div id="imagem" className="flex justify-items-center">
                         <img
-                            src="src/assets/img/GatoHome.png"
+                            src="https://ik.imagekit.io/jwrnry98a/kisspng-alice-s-adventures-in-wonderland-white-rabbit-cate-wonderland-5ac505cea91311.4696973915228615186925.png?updatedAt=1707358274920"
                             alt="Imagem da pagina Home"
                             className="w-10/12"
 

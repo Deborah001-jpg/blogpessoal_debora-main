@@ -22,11 +22,11 @@ function Perfil() {
 
             <img 
                 className=' bg-fixed w-full h-80 object-cover border-b-8 border-white' 
-                src="src/assets/img/festacha.png" alt="Capa do Perfil" />
+                src="https://ik.imagekit.io/jwrnry98a/festacha.png?updatedAt=1707316493999" alt="Capa do Perfil" />
 
             <img 
                 className='rounded-full w-56 mx-auto mt-[-8rem] border-8 border-white relative z-10' 
-                src='src/assets/img/FotoPerfil.png' alt={`Foto de perfil de ${usuario.nome}`} />
+                src='https://ik.imagekit.io/jwrnry98a/Fotoperfil.png?updatedAt=1707358822994' alt={`Foto de perfil de ${usuario.nome}`} />
 
             <div 
                 className="relative mt-[-6rem] h-72 flex flex-col 
